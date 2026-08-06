@@ -4,7 +4,7 @@
 <table border="0" align="center" width="100%">
 <tr>
 <td align="center" width="30%">
-<img src="https://user-images.githubusercontent.com/74038190/238200534-3f6a3b41-c65b-4a95-b3f2-fcd82b2c5a6c.gif" width="180"/>
+<img src="https://github.com/Ajaie695/Ajaie695/blob/main/IMG_0228.GIF" width="180"/>
 </td>
 <td align="left" width="70%">
 
