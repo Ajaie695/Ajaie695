@@ -184,7 +184,17 @@ Led at the national level — leadership, strategy, and team coordination under 
 <!-- SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- SNAKE -->
+<h2 align="center">🐍 MY CONTRIBUTIONS BEING DEVOURED 🐍</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arnavgupta007/arnavgupta007/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT -->
 <h2 align="center">📡 FIND ME</h2>
