@@ -185,8 +185,6 @@ Led at the national level — leadership, strategy, and team coordination under 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT -->
 <h2 align="center">📡 FIND ME</h2>
