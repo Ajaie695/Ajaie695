@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Ajaie695/Ajaie695/main/banner.png" width="100%"/>
+<img src="https://github.com/Ajaie695/Ajaie695/blob/main/Banner.png" width="100%"/>
 
 <!-- AVATAR + NAME SIDE BY SIDE -->
 <table border="0" align="center" width="100%">
