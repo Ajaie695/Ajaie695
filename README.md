@@ -147,65 +147,6 @@ Built an end-to-end **predictive analytics platform** — automated data pipelin
 <!-- SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ARSENAL -->
-<h2 align="center">⚡ ARSENAL ⚡</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode&theme=dark&perline=4" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/DAX-00C48C?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117"/>
-</p>
-
-<!-- SKILL LEVEL BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Python-Comfortable-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- STATS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  &nbsp;NUMBERS&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajaie695&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00C48C&ring_color=00C48C&icon_color=00C48C"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaie695&layout=compact&theme=tokyonight&border_color=00C48C&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaie695&theme=tokyonight&border=00C48C&ring=00C48C&fire=FFB020&currStreakLabel=00C48C" />
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajaie695&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&title=Commits,Repositories,MultiLanguage,Followers"/>
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaie695&bg_color=1a1b27&color=00C48C&line=00C48C&point=FFB020&area=true&hide_border=true&area_color=00C48C30" width="100%"/>
-
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ROLES & RESPONSIBILITIES -->
 <h2 align="center">🎯 BEYOND THE DASHBOARD</h2>
 
